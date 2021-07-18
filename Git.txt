@@ -1,0 +1,11 @@
+Milestones  (Relaeases or Target) 
+============
+Target => High Priority tasks to be completed 
+
+Parking => After completing bugs in Taget, Parking bugs to be completed 
+
+Backlog => Lowest Priority 
+
+Repositories => Project Names 
+
+People => How many are involved 
